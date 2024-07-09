@@ -12,7 +12,7 @@ header {
 
 .home-section {
     background: url('img/bg.jpg') no-repeat center center/cover;
-    color: rgb(71, 203, 9);
+    color: #372b5d;
     height: 100vh;
     padding-top: 80px; 
     display: flex;
@@ -52,7 +52,7 @@ header {
 .description {
     margin-top: 20px;
     font-size: 1.2rem;
-    color: #17e34a;
+    color: #372b5d;
     animation: fade-up 3s ease-in-out;
 }
 
@@ -78,7 +78,7 @@ header {
 }
 
 .about-section {
-    background:#F0F8FF;
+    background: rgb(127, 173, 205);
     padding: 150px 0;
     min-height: 100vh;
 }
@@ -86,7 +86,7 @@ header {
 .section-title {
     font-size: 2.5rem;
     font-weight: bold;
-    color: #02eeff;
+    color: #372b5d;
     margin-bottom: 30px;
 }
 
@@ -98,13 +98,13 @@ header {
 .about-text {
     font-size: 1.2rem;
     line-height: 1.6;
-    color: #167e24;
+    color: #047914;
 }
 
 .education-title {
     font-size: 1.8rem;
     font-weight: bold;
-    color: #02eeff;
+    color: #372b5d;
     margin-top: 40px;
     margin-bottom: 20px;
 }
@@ -112,7 +112,7 @@ header {
 .education-content{
     padding: 0;
     font-size: 1.1rem;
-    color: #167e24;
+    color: #077916;
 }
 
 .about-image {
@@ -125,20 +125,20 @@ header {
 
 
 .skills-section {
-    background: #F5F5DC;
+    background:rgb(231, 229, 181);
     padding: 150px 0;
     min-height: 100vh;
 }
 
 .skill {
     margin-bottom: 30px;
-    color: aqua;
+    color: rgb(75, 108, 108);
 }
 
 .skill h4 {
     font-weight: bold;
     margin-bottom: 10px;
-    color: aqua;
+    color: rgb(6, 89, 89);
 }
 
 .progress {
@@ -158,49 +158,49 @@ header {
 }
 
 .project-section {
-    background: #DCDCDC;
-    color: aqua;
+    background: rgb(228, 179, 179);
+    color: #372b5d;
     padding: 80px 0;
     min-height: 100vh;
 }
 
 .card {
-    background-color: rgba(197, 148, 148, 0.9);
+    background-color: rgba(67, 40, 40, 0.9);
     border: none;
 }
 
 .card-title {
     font-weight: bold;
-    color: #17e34a;
+    color: #a7e2b6;
 }
 
 .card-text {
-    color: #333;
+    color: #c7b5b5;
 }
 
 .contact-section {
-    background: #E6E6FA;
+    background: rgb(179, 243, 198);
     padding: 100px 0;
 }
 
 .contact-section h2 {
     font-size: 3rem;
     font-weight: bold;
-    color: aqua;
+    color:#372b5d;
     margin-bottom: 50px;
 }
 
 .contact-section form {
     max-width: 600px;
     margin: 0 auto;
-    background-color: rgba(127, 234, 163, 0.9); /* Semi-transparent white background for form */
+    background-color: white; 
     padding: 30px;
     border-radius: 10px;
 }
 
 .contact-section form label {
     font-weight: bold;
-    color: #3b87f8;
+    color: #506078;
 }
 
 .contact-section form input[type="text"],
@@ -208,7 +208,7 @@ header {
 .contact-section form textarea {
     margin-bottom: 20px;
     border: none;
-    background-color: #cb6a6a;
+    background-color: #e3baba;
     padding: 10px;
     width: 100%;
     border-radius: 5px;
@@ -304,6 +304,6 @@ footer {
 }
 
 .social-icon:hover {
-    color: #236ccb; /* Change color on hover */
+    color: #236ccb;
 }
 

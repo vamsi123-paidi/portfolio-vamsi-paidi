@@ -78,7 +78,7 @@ header {
 }
 
 .about-section {
-    background:white;
+    background:#F0F8FF;
     padding: 150px 0;
     min-height: 100vh;
 }
@@ -125,7 +125,7 @@ header {
 
 
 .skills-section {
-    background: white;
+    background: #F5F5DC;
     padding: 150px 0;
     min-height: 100vh;
 }
@@ -158,7 +158,7 @@ header {
 }
 
 .project-section {
-    background: white;
+    background: #DCDCDC;
     color: aqua;
     padding: 80px 0;
     min-height: 100vh;
@@ -179,7 +179,7 @@ header {
 }
 
 .contact-section {
-    background: white;
+    background: #E6E6FA;
     padding: 100px 0;
 }
 

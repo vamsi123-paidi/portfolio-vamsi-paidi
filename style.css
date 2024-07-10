@@ -247,7 +247,10 @@ header {
     }
 
     .about-image {
-        margin-top: 20px;
+        height: 300px;
+        width: 250px;
+        margin-left: 50px;
+        margin-bottom: 30px;
     }
 
     .section-title {
@@ -304,6 +307,6 @@ footer {
 }
 
 .social-icon:hover {
-    color: #236ccb;
+    color: #236ccb; /* Change color on hover */
 }
 
